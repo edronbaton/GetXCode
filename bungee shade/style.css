@@ -1,0 +1,13 @@
+@import url('//fonts.googleapis.com/css?family=Bungee+Shade');
+
+h1 {
+  color: #e8e8e8;
+  font-size: 80px;
+  font-family: 'Bungee Shade';
+  text-align: center;
+  margin-top: 200px;
+}
+
+body {
+    background-color: #18181D;
+}

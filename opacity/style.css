@@ -1,0 +1,17 @@
+.container {
+    margin-top: 30%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.item img {
+    width:  400px;
+}
+
+body {
+    background-color: #18181D;
+}
+
+.item.fillter {
+    opacity: 1;
+}
